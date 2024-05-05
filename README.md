@@ -14,7 +14,7 @@ This repository contains the code for a self-supervised learning model trained w
 
 ## Files Included
 
-- `self_supervised_learning.ipynb`: Jupyter Notebook containing the project code
+- `selfsupervised_contrastive_reconstruction.ipynb`: Jupyter Notebook containing the project code
 - `README.md`: This file providing an overview of the project
 
 ## How to Use
